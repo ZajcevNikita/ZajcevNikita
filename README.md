@@ -1,16 +1,15 @@
-## Hi there 👋
+## Никита Зайцев
 
-<!--
-**ZajcevNikita/ZajcevNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 2 курса, специальность «Программирование».
+Программирую 5 лет, основной опыт - разработка игр на Haxe и HaxeFlixel,
+три игровых проекта доведены до релиза. Сейчас осваиваю Godot и Python.
 
-Here are some ideas to get you started:
+## Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Языки: Haxe, Python, GDScript
+- Движки: HaxeFlixel, Godot
+- Инструменты: Git, VS Codium
+
+## Связь
+
+- Email: NikitaZajcevIT@gmail.com
