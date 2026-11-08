@@ -12,4 +12,4 @@
 
 ## Связь
 
-- Email: NikitaZajcevIT@gmail.com
+- Email: ZajcevNikitaIT@gmail.com
