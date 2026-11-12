@@ -4,7 +4,7 @@
 Программирую 5 лет, основной опыт является разработкой игр на Haxe,
 три игровых проекта доведены до релиза. Сейчас занимаюсь осваиванием Godot и Python.
 
-[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,git,vscodium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,godot,py,git,vscodium)](https://skillicons.dev)
 
 ## Связь
 
