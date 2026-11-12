@@ -4,11 +4,7 @@
 Программирую 5 лет, основной опыт является разработкой игр на Haxe,
 три игровых проекта доведены до релиза. Сейчас занимаюсь осваиванием Godot и Python.
 
-## Стек
-
-- Языки: Haxe, Python, GDScript
-- Движки: HaxeFlixel, Godot
-- Инструменты: Git, VS Codium
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,git,vscodium)](https://skillicons.dev)
 
 ## Связь
 
